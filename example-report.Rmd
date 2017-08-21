@@ -12,7 +12,7 @@ output:
 ```{r}
 library(knitr)
 library(plyr)
-librart(ggplot2)
+library(ggplot2)
 ```
 
 Do some stuff
